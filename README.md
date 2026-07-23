@@ -31,10 +31,10 @@ The primary goals of these guides are to:
 
 These guides are intended to complement, not replace, official study materials such as:
 
-- *ISC2 Official Study Guide (OSG)*
-- *ISC2 Common Body of Knowledge (CBK)*
-- Practice questions and Computer Adaptive Tests (CATs)
-- Supplemental video training and reference materials
+- *ISC2 Official Study Guide (OSG) Tenth Editoin* - Helpful but authors are all over the place which makes it tougher than it needs to be to follow.
+- *ISC2 Common Body of Knowledge (CBK) Sixth Edition* - Dry read but much easier to follow than the OSG.
+- Quantum Exams - Practice questions and Computer Adaptive Tests (CATs) - Spend the money for the CAT.
+- Supplemental video training and reference materials. Hit or miss videos online.
 
 For best results:
 
